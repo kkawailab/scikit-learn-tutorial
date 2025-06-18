@@ -738,3 +738,5 @@ print(f"RFE: {feature_importance[selected_features_rfe].mean():.4f}")
 - 特徴量選択
 
 次章では、教師あり学習の分類問題について詳しく学習します。
+
+[目次に戻る](README.md)

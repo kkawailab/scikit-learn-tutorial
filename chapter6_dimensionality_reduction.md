@@ -949,3 +949,5 @@ print(classification_report(y_true, y_pred, target_names=['Normal', 'Anomaly']))
 - **応用例**: 顔認識、テキスト可視化、異常検知
 
 次章では、モデルの評価と改善について詳しく学習します。
+
+[目次に戻る](README.md)
